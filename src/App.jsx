@@ -1,13 +1,14 @@
 import React from 'react'
 
 import Section2 from './Components/Section2'
-import HeroPage from './Components/Heropage'
+import Section1 from './Components/Section1'
+
 
 
 function App() {
   return (
     <div>
-      <HeroPage/>
+      <Section1/>
       <Section2/>
     </div>
   )

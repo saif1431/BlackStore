@@ -6,7 +6,7 @@ import img1 from "/heroImg.png"
 import img2 from "/heroImg2.png"
 import logo from '/logo.png'
 
-export default function HeroPage() {
+export default function Section1() {
   const [timeLeft, setTimeLeft] = useState({
     days: 4,
     hours: 11,
