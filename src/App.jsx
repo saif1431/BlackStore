@@ -1,6 +1,7 @@
 import React from 'react'
-import HeroPage from './Components/Heropage'
+
 import Section2 from './Components/Section2'
+import HeroPage from './Components/Heropage'
 
 
 function App() {
